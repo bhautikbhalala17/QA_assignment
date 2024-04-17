@@ -11,4 +11,4 @@
 - 375X667
 - 414X736
 - 768X1024
-- 
+- Also I have Attach the necessary screenshots and videos to explain the bug descriptions.
