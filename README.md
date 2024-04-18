@@ -2,8 +2,22 @@
 
 ### Automation Testing
 
+**Prerequisites**
+- Before installing Playwright, make sure you have the following prerequisites installed:
+- Node.js (recommended LTS version)
+
+**Installation Steps :-**
+- Follow these steps to install Playwright below docs file.
+- https://playwright.dev/docs/intro
 
 
+**How to run the code locally :-**
+- Using this command in vsCode Terminal.
+- Below Run comman in **AmazonTest.spec.js** is file name.
+- npx playwright test => Run all test script.
+- npx playwright test AmazonTest.spec.js => Run specific test script.
+- npx playwright test AmazonTest.spec.js --project=chromium => Run specific test script in chrome browser.
+- npx playwright test AmazonTest.spec.js --project=chromium --headed => Run specific test script in chrome browser with demo.
 
 
 
