@@ -10,13 +10,13 @@ test('SignIn Button',async ({page})=>{
     // await page.click('id=nav-link-accountList')
 
     // Fill the sign In form
-    await page.locator('#ap_email').fill("bsbhalala17@gmail.com")
+    await page.locator('#ap_email').fill("your_amazon@gmail.com") // Enter ypur amazon Email ID
     await page.waitForTimeout(2000);
     await page.click("//*[@id='continue']")
 
     await page.waitForTimeout(3000);
 
-    await page.locator('#ap_password').fill("Bhautik@1712")
+    await page.locator('#ap_password').fill("Pass@123") // Enter your amazon password
     await page.click("//*[@id='signInSubmit']")
 
     await page.waitForTimeout(5000);
