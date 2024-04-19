@@ -37,3 +37,12 @@
 - 375X667
 - 414X736
 - 768X1024
+
+### Notes
+Hello,
+
+- I have completed the assignment provided in the last mail.
+
+- I want to clarify that I have fully completed the manual testing part of the assignment. However I don’t have much experience in automated testing and partially completed the automated testing part of the assignment.
+
+Thank you for considering my application.
